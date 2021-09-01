@@ -1,0 +1,40 @@
+.p-xl {
+  padding:10px
+}
+.menu-style{
+  color: black;
+  /* border: 1px solid black; */
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  height: 60px;
+  padding: 1px!important;
+}
+.mynav li{
+    width: 200px;
+    font-size: 35px;
+}
+.mynav li:not(:last-child){
+  margin-left: 7px;
+  display:inline-block;
+}
+.navbar form-inline{
+  margin-left: 50px;
+}
+.img-fluid{
+  width:200px;
+  height:200px;
+  margin-top: 30px;
+  position:relative;
+  border-radius: 50px;
+}
+/* .form-inline{
+  position:absolute;
+  top:47%;
+  left:248px;
+  font-size: 40px;
+  color:green;
+  background:#fff;
+  opacity: 0.7;
+  align: center;
+} */
